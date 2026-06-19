@@ -36,5 +36,5 @@ Soy un desarrollador **Front-End** en formación, apasionado por construir inter
 
 ## 📊 GitHub Stats
 
-![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&hide_border=true)
+![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicardoserraM&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoserraM&layout=compact&hide_border=true)
