@@ -1,40 +1,49 @@
-# Hola, soy Ricardo 👋
+# Hola, soy Ricardo Serra 👋
+### Front-End Developer en formación · Venezuela 🇻🇪
 
-Soy un desarrollador **Front-End** en formación, apasionado por construir interfaces limpias, funcionales y con buena experiencia de usuario. Actualmente enfocado en consolidar mis bases en tecnologías web modernas y dar mis primeros pasos hacia el desarrollo profesional.
-
-📍 Venezuela  |  🎯 Open to opportunities
+Front-End Developer en formación. Aprendizaje 100% autodidacta — documentación, práctica y proyectos reales. Actualmente consolidando mis bases, con la meta clara de crecer hacia un perfil profesional competitivo.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías & Herramientas
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)
 
 ---
 
 ## 📚 Actualmente aprendiendo
 
-- ⚛️ **React** — Componentes, hooks y estado
-- ⚡ **Next.js** — Renderizado del lado del servidor y rutas modernas
+| Tecnología | Enfoque |
+|---|---|
+| 🟡 JavaScript | Fundamentos sólidos y ES6+ |
+| 🎨 Tailwind CSS | Diseño utility-first en práctica |
 
 ---
 
 ## 🚀 Sobre mí
 
-- 🎓 En proceso de formación como desarrollador Front-End
-- 💡 Me interesa crear interfaces accesibles y bien estructuradas
-- 🔨 Trabajando en mis primeros proyectos para construir mi portafolio
-- 📈 Comprometido con el aprendizaje continuo y las buenas prácticas
+- 100% autodidacta — documentación, recursos online y mucha práctica
+- Trabajando en mi primer proyecto personal para aterrizar lo que aprendo
+- Mi objetivo es conseguir mi primer empleo o proyecto freelance como Front-End
+- Prefiero entender bien antes de avanzar — sin saltarme pasos
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ricardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicardoserraM&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoserraM&layout=compact&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RicardoserraM&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoserraM&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="49%" />
+</p>
+
+---
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+</p>
